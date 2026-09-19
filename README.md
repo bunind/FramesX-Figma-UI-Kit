@@ -1,8 +1,10 @@
-# Frames X - Figma UI Kit
+# Frames X — Figma UI Kit & Design System
 
 **Enterprise-Ready Figma UI Kit & Design System**
 
-[Visit Frames X UI Kit →](https://framesxdesign.com)
+[![Frames X — Figma UI Kit and Web Design System](assets/frames-x-cover.webp)](https://framesxdesign.com)
+
+[Explore the Figma UI Kit →](https://framesxdesign.com) · [Figma components library](https://framesxdesign.com/figma-components) · [Pricing](https://framesxdesign.com/pricing)
 
 ---
 
@@ -49,7 +51,10 @@ You may use Frames X UI Kit to create unlimited commercial and personal projects
 
 Download the UI Kit and start designing today:
 
-[Premium Figma UI Kit →](https://framesxdesign.com)
+- [Frames X — Premium Figma UI Kit](https://framesxdesign.com)
+- [Browse the Figma components library](https://framesxdesign.com/figma-components)
+- [Free Figma design resources](https://framesxdesign.com/design-resources)
+- [What's new in Frames X 2.5](https://framesxdesign.com/learn/framesx-25)
 
 ---
 ![framesX-logo-dark](https://github.com/user-attachments/assets/861edc5e-212a-47bc-9571-18fd178689f1)
